@@ -1,0 +1,8 @@
+name: Views Table Rowspan
+type: module
+description: Provide views display format Table Rowspan.
+package: Views
+core: '8.x'
+
+dependencies:
+ - core:views
